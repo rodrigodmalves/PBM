@@ -1,0 +1,5 @@
+Django~=2.2.4
+PyPDF2~=1.26.0
+bs4~=0.0.1
+scraperwiki~=0.5.1
+pickle5~=0.0.9
